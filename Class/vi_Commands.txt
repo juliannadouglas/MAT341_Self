@@ -1,0 +1,11 @@
+List of vi commands
+
+i: type "i" to begin editing text file
+
+esc: press esc to stop editing text file
+
+:w: type ":w" to write the file
+
+:q: type ":q" to quit the file
+
+:#: brings you to a specific line number
