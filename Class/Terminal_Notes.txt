@@ -3,3 +3,9 @@ Notes on Terminal Commands
 -ls: lists every file/folder in directory
 
 -cd: change directory
+
+-cd ~: goes to root folder
+
+-mkdir[name]: makes a folder with the name
+
+-pwd: lists all folders you're currently in
